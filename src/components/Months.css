@@ -1,0 +1,9 @@
+.months-list {
+  list-style: none; /* Remove default list styles */
+  padding: 0; /* Remove default padding */
+}
+
+.months-list li {
+  display: inline-block; /* Display li elements in line */
+  margin-right: 10px; /* Adjust margin between li elements */
+}
